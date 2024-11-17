@@ -1,0 +1,57 @@
+*{
+  background-color: white;
+  align-items: center;
+  text-align: center;
+}
+
+#titulo {
+  font-family: Reboto, sans-serif;
+  line-height: 36px;
+  size: 28px;
+  font-weight: 400;
+  width: 102.42px;
+  height: 35.5px;
+  top: 383px;
+  left: 705px;
+  color: #0EA5E9;
+}
+
+.form {
+  width: 378px;
+  height: 42px;
+  top: -4.5px;
+  border-radius: 4px;
+  border: 1px solid #94A3B8;
+  top: 8.5px;
+  right: 9px;
+  bottom: 14.5px;
+  left: 9px;
+}
+
+#button {
+  width: 378px;
+  height: 40px;
+  top: 114px;
+  border: none;
+  border-radius: 4px;
+  padding-top: 4px;
+  padding-right: 112.91px;
+  padding-bottom: 12px;
+  padding-left: 113.090;
+  font-family: sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  background-color: #10B981;
+  color: #F1F5F9;
+}
+
+#subtitulo {
+  width: 234.45px;
+  height: 25px;
+  top: 598.5px;
+  left: 638.77px;
+  padding-right: 5.45px;
+  padding-bottom: 5px;
+}
